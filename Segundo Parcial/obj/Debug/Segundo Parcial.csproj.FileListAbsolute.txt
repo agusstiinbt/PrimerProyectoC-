@@ -1,0 +1,7 @@
+C:\Users\Intel\Desktop\PROGRAMACION\ISTEA\Programación Lógica\SEGUNDOPARCIAL.MIERCOLES.ESPOSITO.AGUSTIN\Segundo Parcial\bin\Debug\Segundo Parcial.exe.config
+C:\Users\Intel\Desktop\PROGRAMACION\ISTEA\Programación Lógica\SEGUNDOPARCIAL.MIERCOLES.ESPOSITO.AGUSTIN\Segundo Parcial\bin\Debug\Segundo Parcial.exe
+C:\Users\Intel\Desktop\PROGRAMACION\ISTEA\Programación Lógica\SEGUNDOPARCIAL.MIERCOLES.ESPOSITO.AGUSTIN\Segundo Parcial\bin\Debug\Segundo Parcial.pdb
+C:\Users\Intel\Desktop\PROGRAMACION\ISTEA\Programación Lógica\SEGUNDOPARCIAL.MIERCOLES.ESPOSITO.AGUSTIN\Segundo Parcial\obj\Debug\Segundo Parcial.csproj.AssemblyReference.cache
+C:\Users\Intel\Desktop\PROGRAMACION\ISTEA\Programación Lógica\SEGUNDOPARCIAL.MIERCOLES.ESPOSITO.AGUSTIN\Segundo Parcial\obj\Debug\Segundo Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\PROGRAMACION\ISTEA\Programación Lógica\SEGUNDOPARCIAL.MIERCOLES.ESPOSITO.AGUSTIN\Segundo Parcial\obj\Debug\Segundo Parcial.exe
+C:\Users\Intel\Desktop\PROGRAMACION\ISTEA\Programación Lógica\SEGUNDOPARCIAL.MIERCOLES.ESPOSITO.AGUSTIN\Segundo Parcial\obj\Debug\Segundo Parcial.pdb
